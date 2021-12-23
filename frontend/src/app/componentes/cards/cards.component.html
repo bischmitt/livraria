@@ -1,0 +1,29 @@
+<div class=' containerCard'>
+  <div *ngFor='let item of livros' class="col-4">
+
+    <div class="card1">
+      <div class="nome">{{item.nome | uppercase}}</div>
+
+      <div><img src='{{item.foto}}'></div>
+
+      <div class="autor">{{item.autor | uppercase}}</div>
+
+      <div class="btn1">
+      <button type="button" (click)="mostrarModal(item.id);" class="btn btn-danger mx-1">Excluir</button>
+      <button type="button" class="btn btn-warning mx-1" (click)='editar(item.id)'>Editar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div *ngIf = 'isModal'>
+  <div class="minhaModal text-center">
+    <div class="tituloModal bg-danger text-white">
+      <h5>AVISO</h5>
+    </div>
+    <h6 class="my-4">Tem certeza que deseja excluir este livro?</h6>
+    <button type="button" (click)="cancelarAcao()" class="btn btn-outline-danger m-1 mb-3">Cancelar</button>
+    <button type="button" (click)="confirmarAcao()" class="btn btn-danger m-1 mb-3">Sim, Excluir</button>
+  </div>
+  </div>

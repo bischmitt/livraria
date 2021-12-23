@@ -1,0 +1,58 @@
+{
+  "Livros": [
+    {
+      "id": 6,
+      "nome": "A Metamorfose",
+      "autor": "Frans Kafka",
+      "foto": "data:image/webp;base64,UklGRjQaAABXRUJQVlA4ICgaAACQUwCdASqOANYAPl0okEWjoqGWHP0sOAXEsgBpNvY/iOtG/X6j8svaBuL+s/FvpAdsPW/mOcuf8z7l/md/s/VD/aPUC/XjxAPdP+5/qM/nn92/Zv3Z/9f+unur/Wr9kfgA/ov9s9aP/ieyP/SP+d7A389/sf/09eP93PhY/tP/a/dn2yv//rL34DaTMeHwD93/dH2MMffXvqEfMvw//G9d/8p3k/JHUC9reDTsVwAfof9l/Xvxx/pD1I+v/7CfAB+svo1/zfBa+7f8b9o/gA/pf9o/8vqu52frX2Cv2L9OL2SfvH7L/7VNkgeOairQ3D2Pe90ZN86L/3cIamUD3gN1K60z8EOrAUmzPRFir2jNrwkRHXzsUx3tyDjylmjuNaGU2dpcbeecVI4aQ+W9S2VxECqEBl/p5v3Vx1n+PvZXaiFGH52adBx4Jm9bs0nmWvT9HxkyCjtttzFC7o/6+DVZ5zRNCenP18Y1B3LPpYM/7wsY7nmGW/VfXZRCtf6yKwny0K240cCDN5fXG03xVdo4IEZ50EchWbz18b5hRJ+lGKhmbg0JiuK97lfAvq4Z1wxm95VCSurW/Mv91+UrpcEuZ1ZWUru4E9XShcgGbBbtO/OGeesuApEsCiUGZRIHDUeO78isC3BG1D5Yv0R8TaTDsEOROCf+RyhNCc+C3NBkQKYcuYkqaV3hHU18GFXYt3UM9HbjPjUURnLKVH3ek6m3xI+0jnWyYWrn7meEHBE+aNJ2cKpEeqoOrwql+PqBczOjGa6TENFzIBKc1UrgD+HRioPT5EZKFqx1uhy+U0fqL46g/+sapX0kM8rCy6xzH/bzpVA9rkh6L2GUbx2eewcjyDNaI69YJgLd3IPNarnvOQAEptAFvjihqlwNTPngsNLiPFoZAAD+y7filbl77p7nRPKNqhgk3icCIg6z/n3k/BMDMqj95vCNHEDfuwtudd6b3BweVFbN0lL55gJJbeo/RV9msxyIVPLHx+yXzvRowEpu4jQiv3KC7lRkeofu0W/G6UTZIt5Oa8mpSx3jlKF8Uta4kHTgwvKQPmueFbR9dvPQun/+dJqMKZ3h/M7cN1iY8Ft+CPucAhD+EPE6bqL0zeoFN5+Ajw9bziFzPDuJ8zwez65FEeKUsfxlXsOD8MT7DovX3zfJwtj/rzZ1/SYEx3ELJ21EbTKyPHH9J5yoRp9UpxNufvEAHMGv69TFxrsxONpiNTHXQamShNehido0gmTAPw9UcWtAlT9+peYnoszWoLMl1GK0NmIfi7rxN8WF7iUidYlTrQM2RFo6LlLWn64jDz/ncmbt9kor14EjudRS+tjJqTtDv7Im8Al12jyGdr2Bl0HfUeHYiG5Fp6T2Xn14uK74jyu9rp0Ba8Ttpo5xEtFDSf9oGhtIyxt8NTqwKvw3T/F94K5Dptv7ysZsfJHrXAweLVjQB77NGk6uPibsAAFtcAEqISkgEP8Ar/AGdZwX9Y0D1ygmSThUXJSstNX4qW4nzjbyLrvfBl9V2Bkj4Ofailv2JSn+EdLLUkBEkI9titBp78+3lPzlg6f/wUSP70njEsy8nHpGE7xPRgKRQBMjUn11Fojy8avuMZVfKFRDy7STX5MxuZ1XTMT+UmAStw91J4rkCtITO7x+hpxiyMrGITURgRW1lYd8YIcopxqQTupQnHchRPAD5M7VB5n74GzmecsLWoa7knTfnd/IYF8k1/+TpH/p6UODFXCl546y9lpYXsR3/lsJ6TqdkGru48lfSAKIWFhGUhLLWI7ENiyNaIAc//w/qcNrTfubCRFYSiafIOI7CK0NmnuWmcBYGWFPPmxPd9sv9n9XNq5BOxKfoExjs9zmByOeDpzCW9sStM7nGSkxAEJvrK3g+AnfS3FTzt9e0b+cCri3HwTcDvyJCVj8hs3oq92/mK50GExzlNvl3hIJqWmH2jSX3cag7OWoay+79moyEEwMk5lZqGBEhzCT88KQ6OmaRHcFlCkwFL5YWbjHryYn8ZXOpP3Pb9zKkcg5zRdkdwlsada7lEoUwuV2Y2KXih0QkeCx8ucSmP+w7FJlYnX53+6J9hMwCWCLY7XoywHzo3KQAKwlY+CMWRaf48b7Fsm5Gh0z4Ab28PTRrh0eb6QKai1sgWSEWNYAiNaG71Zs2VLKEHlDbWRR3UUW8pxcwHkxJstiX+ratdYRb2Eof7dYqruWFFBQFRCfD8fmh4XFO/jPYLW7TokZV75u3ZyAqeuw1mVMkUSosfP36B4v/EDxbJq0gUonOtBh8tuGnakx79WSwOmEQAS6B2IpTlIPoThdO28m4l5C+aruQ+1C8pmZ7xPbPhhNXz30ANRSO3HosOglE7qxrT7Ii2r8PvWh7LxM9XtagxsmmZSux85NpmVfcnl3qCw7/uV+gHw4sju763Tn78UVvEHQnTuUgTJQBvm2bmcWOCKf1H+L17AiuUjzdctOipUwBONz0IXtIOH3wb6kQm4ahFvyAMMeAXScXS2iBOatLaAo1vZvxfCcXGvyOrpjg0S0FMmMJtAbCr+IRpdFnKAfuFNvFlja1cPo6HurPV/Qj5c/imLD4iEiMgguV27bAL6SnIog/Q3xo0nlY7XgAs73QXph8ASPWbeVyd3ESXAjsdHBuuDkev0Gn1xiWR4CxPAWXCD9qu2IDDYjVcZVyTtjxVo4iEswlAu1lfcsGwWu+orwEQk7IRqV7/j0zTn88uFCiQev/BPSSR7q6I4QQx6Tl6D3wpbsIxLP50AJJfJNp/IoQiwZAyfrL+49d3jZiz66z2xJOViPE0AQw8sT+2qlgXo3hLt29YmNtZ5XDR/o4i/8nulmtz/yhMhXLQzMxgdMJ0Vg/PtMqRWyUj/TG+vxlUJhQch6zdmD5nwBkmzJV312JBYGh3vjXfVqnR0vCkVbjSQHaXUHGEtL42JzqOPYfHFEPI6qpjBD6kbdLbaCVD4K0t+M12BmGhYwJJetr3+IJdiLAJY+vJvvBgmtJdP9GR0MyvM7/XhDJwbeTYxmHj8f5qDfDQILYGYSDJhbIZ3AsuNz2xEfpTTH9HQk14JXQUXqIBUd5GwCyKJzccOcyWwxtoLmMSAa4QPV196Y5s5SD3ROaHPe7wyDUoFQEEaSGeSXJTNCdrZyMFGAoHv1iOYtPHbyaWyID2F0HdwlS+SqjT83w+t8iNGmw1Hvg9oj8jBfCRjq9aRCQQq0IIRkRjeSLe8Y4CGb/Q+T6bFcahYyyvpJ8ynPY/kKdjnh2Yn5QPgy65FXoJIAGev/AAuX5IO+DeV/+cLo66fCIpVUTTnhoMwHtljbfvQh1fSbn1dLu6zYl2bLR6wu4B6QXDWqWmn2znXiUyfA9ByZcET/Q9TfzUZ3Iu+IaE/E/KSyfcyNXsoMjKVlHo9k04mZYLZGePomNIQLt1Bh8D7jJMPouXOu/iqMRg8cZL1Ef6PDn8M3SSUY7A6VHE/s1dMiSw6nbREnPK+4roepX7UOccbc9h4rPNQgiSqolOnQtwssy74gVI1oAo4+Iw7x33VbDn9avqbZtbw/vOmaUZwqhdfoGldZ7OZ2OUhG2MXzdZv5dZNnv5M5fBa2pUzPBSbKv9pGkO9/pYw0GR1wkgNHqvW9zKZgD5PV5fsUAfPwL5Ji5Q6kn4ii/Z5WUugz3BiFC6BCutd+2scshlI6DZKgFIsuFcvD6vnVmuw5nqKJuM39l4OYRjWNriAVpejRV2bY9MAmMyf0z7lkUc8PP3XtQRjSu5ie5LVlYu3dDwm4qEKzlNuOAp7yYyYAI3ZmFssHP7I2yUMJg/uxIFzW2oQlkAFG+cLQJq36BMHeWhMI3khtqq1wkssiJLH+UTuAGzJLSPugr3TsZRiiycBPLGtOY1Zehq00OuwG2Kyr0SHaZiW0btZwVQmq0jHWziH96Wc/5jfAb15TZnwVL0dTnmDj1q0LP0zjOsjQi1kSOC7HevOBf9wZ0NXRgJssyoon3yM3XPowaEz8DU4IXDkzb/YcRAze/k4SCScgezMrPFzC1v+TIB2lW1rahx9bo9fLDla2v0WmIQVx4QXscwrOJmpKYXKkcwrzlzFmMH3NRPMz4XfRAOgRCfU9sTuRC2qAGY81o6mGcdKtp15vnjcnhkyyChNiUHdYa5cyo8U7UW6nXJQ88p+VoY7ZUVj8gK/Wo7ktUOueJ5ITvdlHMaEuknd46HdqqEfZQ1tSYQOHc33kasIs9snE+/PVCWATOfRDTbU21W4KD6DrPR+ZQpjkOFfHbXrxDDvk0OA1h7+RYWeivf9GKQsZIG0n2O6TeTcgJ9jdtho+EzQoRRMD7dk9ZhnJ7jT8ySqE1/cobFM0hTOFVPG+2vWgcEVWcyzqJS+dhVhz9bD4EoE5xKSD6ZDursq4GgFNlwSGoG/aVInJfMnY+JULoR93GhR7HAM8wSWsbT3IUfDgdVonSzwQBKIFNIv7S8UuE+ha8qHOTU2KdztPuckNU7meaAzmuAWyeJVv4exXo68PEvljk1zvXTmb5XWT4Aj5wA6AO7A4jkooANrpEuIoLNP8VYxgkZZuAf5bEoILe6BpO+cM6jD1Vv/xhgeFjznP9BOeCq/zRSDpEsFNNeHvKEsZYNp46RGdsXj76x5Ovb1s9GiG4xiYbuR4TPniXSVNtj1/XYtFOP92c7HG1PPQeqkrgpb8SKAOUFiEGTjcp9oGJkWDTfB9agxC8H6H6LPeTwBTkKQnu7nma+LVE5rmko5FYL/rQUq+kiTyOngM1GU4uq1eTw4IRqb3x3hHPZ/h/AoOE24tj6uxr9esyvaItDRR3YyoDEO/zNHk5JvgZndT2l3tymXnC8yKHopexHqP4n9Bg59lsyLs1xN0oEdySWnhB29LzS+DSwdNcG5iwib8Od4qtJtjxzpLjrHicwZipyAksS7dS29kB+49ZbVakN08wl1HkW0mhZN0CKnWTliS2lOL4HmMwOnMXJ4KrS6+A8ih+BQ5cZAqAH4SJAaauORmVdwI062q23SEJKY8Jq1nmhvrgFpbpcmvOycGLK0rtvaeCCI8H0AMcs2aHV9BKfxGZz2FevadLE7IsDfa+xrlQuY/0fNN6nhUq91JJfOweyvdh8n6bcjSNq4XY7WEV04CeG/ZNAgmvnTIstkGtq8OyxvG1Zili8LeQ9VAIO0PXO6Sq31p7vKeQMdihDWU/J7oTZ7lfEGIYMSaIF7ZR+o39kjW1O3QcG+8+cyP6eez39oci9FhUDNa82LYmbvHdflFeAEQyLTM3V5E0bn3xP2I0FJQ1f9J3rY3JKHEZfnI7axTY/qqY0jJHMzh3XkvfkGX86RT+T06WFjWteLFi9qQ4cXOvpJXpwVymBUFoulXPfBK7Fk5yOOR/TdPmIDix5GzsdfZd8eySgagCiOZJqjWroMuZgZiEvXwl01q4anvotFTOtYA8qKZaTNQR87oMzM+J+fwI5eLpHGyuSkonz0cOvrxWvE5ZMmVqcfqWS8QglLdAZ73YJMdkY5vVxrvIa1atrISrMDGPP3kQ1m/oX7K9LQ/eSLMpcrZKjvmXlJwUSpmOx6hvx5Pbd3YYP1ap6r4fzPclscp+hiyVfcTk9qR386X2g15m43tY4MwqdHVb2H/Q/5AHKiVkrLePb8LI0NiZM3L9laWbky86nuhC8VLk+5LXULbX6Gk8AFcbjYEDmfGOh9pSR3+bVrL7D1H9wD9QyHXmmMwgU39/tOoORKx/Xga8+9yeu3BoHTj5c93BAmz5kkB6Lao+LVJ2QEdgn/Xv5bIBHBWcLNwvfSdtkzWYcFQRP3/0s868OwSx1NVPDsOdDHSYVRHlq5AZsrP6q/Pjd9g3lVPTDOhW1DpdInTcFMFxKKwyp1PM1ZGQbI3Be8sqmY4iIRTiw90CK1HRjs5qUrAK7jDBwthZtTs7XjV9oPBSuhkq3tffxd58buZAs4vqbYzv2FJhSTfePHAJmvHz+taOPtl8JeoLxdI3jsiXmIsYp6RzlzFheImGfnMDRy1HJX3TmWXEWPNn48DRPxNmIL8VZ4Fn578FDxbGoh2q40NcMQ1BtNh7FXiuPTdHEO2JXKSIur6oTVyEY8VQe7+qz113WsI5bje8hOdnxnANc9MbGdIWjLnj3MdRwCouzwpPeGHddJjQrsl71WH5N/epjIp4eXsOQSDJ3AcGfYAjPzAJJ13iB28MTEcI/AEKNxy2c5T01FTTTeIROiVEpC1GBwkDa/xVAoiZGYlACgOHtz2RkpWGgC/ixCISORFRDtOb82/jnbf7sC7fKvAltm/8Fviv43W6qiC9EPjUjBcAeuQ9DmQZNrhsGGm3obJlpzTKVrZE8OS8w6RO56lVvZGLj+1ANQQgcgLWKQk5VmyPFuGxlWfxhaiLroVAREcaixpFkoEJEQeJ+QMwALQAny3wEBJEbRtlP8/GziuQr3qFU5K2a2fNS5iFGJUiq/XJrIMaohD8kwiNlE0OTWoAOT2jKu+ByFVTvNnC9Q82ngaAv8mZtPAVv63qxEU475PaZCzt3SeAijtdllGurKGoMoLzm3BZQMtG1kKf+MvrrLVy4U505hGdMdksO8v0iRO3ofIkE4DoetH1SKL5b9KBXhYV8H+y1GSoJb2LWKKoZn6U22Znk+7wsQZRv3+VBfZgFzE8pcd6Uj7rncpOtq9O7LEPiqXookCd4TnM1ugDkZE2um5NlKmv/vFRa05mKWWyXNAv6Ie01+dT+wOZhdGEB71+kFEc7fXoRinCpiYzkThNgtSeJ5BXJ0Ae/VYWZHzrKNdEWClv6AwkDOw2U+gGNrKLDcxmLlyR1tTkNBqxVnaPnkUof6GVCHpkT6zHbdunMa49E89STftVcDMkk5BfZPzLsboWY6W1WXvPYYRfMXL2wH5tFdgWT1RdPcQndrfX4r9swFa0u5pNOV6Hb7+YZx8WbrFX/4Ex1YGZh4VNM5ZLw7BVJrUSGH63RkwyWvMgUPErXXICd1kC+ZV247SgCvsICQpt2FAhxeG7A4QaZLjQsGSWUyJK9hksgndhGpcAB/6nROiJ83mJrjHKAuWd8Ap3jDpuvX4KlPPP72iqwTRmz7MY3mXevSrlfQPQZT7fLDwkUJqZBHZt6+rt3foEAD/qdtLoH3/jcwnpoyg3I0NgSdaq2wISgDYGrdJcRzVjv//r7nfd+wm9g40X87jwTH04ihhnIPi653pEwQWA4r1sxMhPN4FXAcCJUDcwsyNI6jaAsV3Z169+LDpsWVLMJRyw4LoG2V7IfNg60zFP591NdTiYs2WpVCKbIhUCkfinYu9dK6nVyeXkSesiuxTQ/xgqk1WSgVa1PdtyYJ4Px7EcpKHH+Aa14GaPi8WXlUlk8s2PFAHanMXaJMx8XRd0c5t1Yh54dbnM+6SBQVtq/9IZEvxmaZs+AjhncJw84xRVD+AGZTnwDNZAmMchlin9RbU2o4tw4cX9x/KDDXlswg4E9ndNVNUjFwuwPYMF+jcHziVtBZhkAP9TkxzYnERH6ZX+08GkiG66i9kGjlaHTMToS9L4J4wKFgKqtkuT4GKbRoYrYET9KzbPxUWmaIzwVAlo4f7NN5iycH0a+nbJ88biUC4Hjp8hJzGBpjsRBwQmxequ/e7w+mvzzml3unZhdy+8k83iIBCqG7mSdGL5IOGtEMA7A1Lnm4tsZeTXimPt4uBikZoK1ZbiKfw+NFGIe9sjH+DnWHm8UhPgRdK7DnbAAhgPqSctxwvZWyWKvf95GKYsq9edXcJHsIUNa6aRROhx5NSoKV/rdfBPwxr5dpZzmsOnU/9RF6HIVlLnp6xvF7W3NkEGD6ujsGFDik9feyN/CzTsmGiiMgd42bmkfb93+O0QaNY/Pga1dnB85Se9UAh247/07AXdjU3Au3H9NAWoSIa3oM1+Wrqr7aDd9ncr79CNrTg7Od/iXvKPJ40aU/p30jgPie5W6rjpOzCmsxHq526BmzMJpSFSOb7/2Lfb2IqQDmxfIMV6Avnw3IHjQ7/eMDmD/CyCqP0eQTeipvIRqIp1pAU/cb7HojuraM+TvU6sLVztkDUTraXeTfmWjvDuIyoQqgLiLVdB79mdSgEtTUVK70+7RAz9A0UJNIc6jxIwuYWHLN+0iRAugBvWQlPfA6uMq20JhlhEQQx5tEZ9VZtaxqS3sK1gEfFsGkhIu3xPH1Nueu3Rt60iYweeQtZLDjDDKTJM2j05XTO2mGBLs4zm3g/cwfNxYweyWaG79gvsYwAhYD1+FJ9aSGSc98qIl4JUG8qhzq2cNiaaaJI6YrAsin42ZTSB/o1cVwSHeik399iLzSLeRWeb03M+tYFuh96/Aqpr63v5qhG3Cci7Mx/0FP5BJRKR8Ui+riCRKS3LeADmt7g6AU07aPd/D63rdkQStgZ1pGUVknY+mWJ2bOKqtGdPc07KvzWxne5Mby6xt21VdSivwlukE8r4iM3YStnZG2O3KMAUYTp0t6c+IMtYOEKAN4nhD/1+M3GA9nyU8Tx/cUVFa8hdqFC0J0NfgNdD9d2XJi+2b4fftJyJtE/KzpmBGoGwEvRjwAAAElJwskATs4BLNYy+av2jfxZQigualQ2rpD8NfFUiGgyZ/Bg8APMw+WcUADU3/IqFd8yjt5y1xRmJqDZfY1bLlzLJurpd6ZJQc1wbtyfFXh5ZBHqKz6k7U759ydI5ixtfpGddDgIXo1bHlLc+Oa2Nqn+/TDmFQ7tXl1Zi5iJ8k/Afw4OFLC7/qHFXuMYO3aqYS86qrmeLOqYi3BKGAE/gB3M4mpYMxVAus5/ISUgliDUW26J92S1QDB61m/E5Kvn+k+CVxITsEDbfG4MnGzD4KSr5avRbuRSPkyjwbY/Re8daWxlwGm2w5QAMWDo+xd6dX4MTPAY1E1Hn3DKFozM379ovkdZabkWlf06lNiXn2gf4E5G0O05f5hMxxoP9xHug7VW7s/6QEdTCXKzCFUkFHkBZYAAAAA="
+    },
+    {
+      "id": 7,
+      "nome": "A casa da Sabedoria",
+      "autor": "Jonathan Lyons",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/51+jgky5lHL._SX339_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "A era dos Impérios",
+      "autor": "Eric Hobsbawm",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/513On7WGRPL._SX335_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Translatio Studiorum e a Cosmologia Medieval",
+      "autor": "Bianca Klein Schmitt",
+      "foto": "http://tile.loc.gov/image-services/iiif/service:gmd:gmd3m:g3200m:g3200m:gct00215:ca000001/full/pct:12.5/0/default.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "autor": "Joane Rowling",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/41897yAI4LL._SY344_BO1,204,203,200_QL70_ML2_.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "A criação do Patriarcado",
+      "autor": "Gerda Lerner",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/51B8UEZh6GL._SX337_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "Hisbisco Roxo",
+      "autor": "Chimamanda Ngozi Adichie",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/519j4iD9idL._SX346_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "O mundo falava árabe",
+      "autor": "Beatriz Bissio",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/51cQlSCV38L._SX334_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "Brasil: uma biografia",
+      "autor": "Lilia Moritz Schwarcz",
+      "foto": "https://m.media-amazon.com/images/I/71aTMJJEWDL.SR160,240_BG243,243,243.jpg"
+    }
+  ]
+}

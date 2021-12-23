@@ -29,10 +29,10 @@
 <div *ngIf = 'isModal'>
 <div class="minhaModal text-center">
   <div class="tituloModal bg-danger text-white">
-    <h5>AVISO</h5>
+    <h3 class="p-2 fw-bold">AVISO</h3>
   </div>
-  <h6 class="my-4">Tem certeza que deseja excluir este livro?</h6>
-  <button type="button" (click)="cancelarAcao()" class="btn btn-outline-danger m-1">Cancelar</button>
-  <button type="button" (click)="confirmarAcao()" class="btn btn-danger m-1">Sim, Excluir</button>
+  <h4 class="my-4 fw-bold">Tem certeza que deseja excluir este livro?</h4>
+  <button type="button" (click)="cancelarAcao()" class="btn btn-outline-danger m-1 mb-3">Cancelar</button>
+  <button type="button" (click)="confirmarAcao()" class="btn btn-danger m-1 mb-3">Sim, Excluir</button>
 </div>
 </div>
